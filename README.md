@@ -20,7 +20,7 @@ Experiments on the KITTI and ShapeNet datasets demonstrate our network achieving
 
 ![image](https://github.com/user-attachments/assets/c101a51e-7cf1-4534-a80c-0db085d791e8)
 
-## Colloboration
+## Collaboration
 
 1. Archana Jayaraman  
 3. Harshavardhan Subramanian Madhavan  
